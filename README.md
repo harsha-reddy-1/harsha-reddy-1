@@ -19,6 +19,4 @@ GenAI Engineer | Agentic AI Developer
 ![Streamlit](https://img.shields.io/badge/Code-Streamlit-2ECC71?style=flat&logo=streamlit&logoColor=white&labelColor=3A3A3A)
 ![GitHub](https://img.shields.io/badge/Code-GitHub-2ECC71?style=flat&logo=github&logoColor=white&labelColor=3A3A3A)
 
-📌 Pinned Projects
-AI Travel Assistant | Multi Agent Research | Medical Chatbot
 
