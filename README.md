@@ -2,10 +2,10 @@ Hello, folks! This is Harsha! 👋
 
 GenAI Engineer | Agentic AI Developer
 
-🔭 I’m currently building AI Agents & LLM Apps
-🌱 I’m currently learning LangGraph & MCP
-👯 I’m looking to collaborate on GenAI Projects
-💬 Ask me about RAG, Agents, LangChain, Python
+- 🔭 Building AI agents and LLM apps: RAG pipelines and MCP-based agents for DevOps and QA workflows
+- 🌱 Learning LangGraph for multi-step agent workflows
+- 👯 Open to collaborating on RAG, agent and MCP projects
+- 💬 Ask me about RAG, MCP agents, prompt engineering and structured LLM outputs
 
 ### 🛠️ Languages & Tools
 
