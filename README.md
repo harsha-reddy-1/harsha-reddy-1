@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, folks! This is Harsha! 
 
-<!--
-**kodiHarsha/kodiHarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GenAI Engineer | Agentic AI Developer
 
-Here are some ideas to get you started:
+  I’m currently building AI Agents & LLM Apps
+  I’m currently learning LangGraph & MCP
+ I’m looking to collaborate on GenAI Projects
+Ask me about RAG, Agents, LangChain, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Languages & Tools
+Python | LangChain | LangGraph | OpenAI | Gemini | RAG | MCP
+
+ Pinned Projects
+AI Travel Assistant | Multi Agent Research | Medical Chatbot
