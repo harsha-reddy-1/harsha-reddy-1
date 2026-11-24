@@ -7,7 +7,7 @@ GenAI Engineer | Agentic AI Developer
 👯 I’m looking to collaborate on GenAI Projects
 💬 Ask me about RAG, Agents, LangChain, Python
 
-🔧 Languages & Tools
+
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Code-Python-2ECC71?style=flat&logo=python&logoColor=white&labelColor=3A3A3A)
