@@ -8,13 +8,16 @@ GenAI Engineer | Agentic AI Developer
 💬 Ask me about RAG, Agents, LangChain, Python
 
 🔧 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Code-Python-2ECC71?style=flat&logo=python&logoColor=white&labelColor=3A3A3A)
+![LangChain](https://img.shields.io/badge/Code-LangChain-2ECC71?style=flat&logo=langchain&logoColor=white&labelColor=3A3A3A)
+![LangGraph](https://img.shields.io/badge/Code-LangGraph-2ECC71?style=flat&logo=langchain&logoColor=white&labelColor=3A3A3A)
+![OpenAI](https://img.shields.io/badge/Code-OpenAI-2ECC71?style=flat&logo=openai&logoColor=white&labelColor=3A3A3A)
+![Gemini](https://img.shields.io/badge/Code-Gemini-2ECC71?style=flat&logo=googlegemini&logoColor=white&labelColor=3A3A3A)
+![FastAPI](https://img.shields.io/badge/Code-FastAPI-2ECC71?style=flat&logo=fastapi&logoColor=white&labelColor=3A3A3A)
+![Streamlit](https://img.shields.io/badge/Code-Streamlit-2ECC71?style=flat&logo=streamlit&logoColor=white&labelColor=3A3A3A)
+![GitHub](https://img.shields.io/badge/Code-GitHub-2ECC71?style=flat&logo=github&logoColor=white&labelColor=3A3A3A)
 
 📌 Pinned Projects
 AI Travel Assistant | Multi Agent Research | Medical Chatbot
