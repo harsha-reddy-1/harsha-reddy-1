@@ -1,7 +1,6 @@
 # Hello, folks! 👋 This is Harsha!
 
 AI Engineer by Profession
-
 Skills: GenAI / RAG / AI Agents / MCP / Prompt Engineering / LLM Apps
 
 GenAI Engineer | Agentic AI Developer
