@@ -1,6 +1,6 @@
 # Hello, folks! 👋 This is Harsha!
 
-**GenAI Engineer | Agentic AI Developer** · Bangalore
+**GenAI Engineer | Agentic AI Developer** ·
 
 - 🔭 Building AI agents and LLM apps: RAG pipelines and MCP-based agents for DevOps and QA workflows
 - 🌱 Learning LangGraph for multi-step agent workflows
